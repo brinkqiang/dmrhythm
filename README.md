@@ -1,1 +1,26 @@
 # dmrhythm
+
+Copyright (c) 2013-2018 brinkqiang (brink.qiang@gmail.com)
+
+[dmrhythm GitHub](https://github.com/brinkqiang/dmrhythm)
+
+## Build status
+| [Linux][lin-link] | [MacOSX][osx-link] | [Windows][win-link] |
+| :---------------: | :----------------: | :-----------------: |
+| ![lin-badge]      | ![osx-badge]       | ![win-badge]        |
+
+[lin-badge]: https://travis-ci.org/brinkqiang/dmrhythm.svg?branch=master "Travis build status"
+[lin-link]:  https://travis-ci.org/brinkqiang/dmrhythm "Travis build status"
+[osx-badge]: https://travis-ci.org/brinkqiang/dmrhythm.svg?branch=master "Travis build status"
+[osx-link]:  https://travis-ci.org/brinkqiang/dmrhythm "Travis build status"
+[win-badge]: https://ci.appveyor.com/api/projects/status/github/brinkqiang/dmrhythm?branch=master&svg=true "AppVeyor build status"
+[win-link]:  https://ci.appveyor.com/project/brinkqiang/dmrhythm "AppVeyor build status"
+
+## Intro
+dmrhythm
+```cpp
+```
+## Contacts
+[![Join the chat](https://badges.gitter.im/brinkqiang/dmrhythm/Lobby.svg)](https://gitter.im/brinkqiang/dmrhythm)
+
+## Thanks
